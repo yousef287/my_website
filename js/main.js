@@ -21,7 +21,8 @@ function gbtn() {
     " , i dont know man you been seeming sus lately, its almost like we have an impostor among us &#x1F633;";
   var results = document.getElementById("lit");
   console.log(tBox);
-  results.innerHTML = "dont lie to me " + tBox[0].value + "! , you sussy baka";
+  results.innerHTML =
+    "dont lie to me " + tBox[0].value + " , you sussy baka!🙄 ಠ_ಠ";
 }
 
 var btn = document.getElementById("gbutton");
